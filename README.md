@@ -1,6 +1,6 @@
 # Identifiability of a Binomial Synapse
 
-Matlab and Python files used in the following paper: [Gontier, C., & Pfister, J. P. (2020). Identifiability of a binomial synapse. Frontiers in computational neuroscience, 14, 558477.]([https://arxiv.org/abs/2201.12123](https://www.frontiersin.org/articles/10.3389/fncom.2020.558477/full))
+Matlab and Python files used in the following paper: [Gontier, C., & Pfister, J. P. (2020). Identifiability of a binomial synapse. Frontiers in computational neuroscience, 14, 558477.](https://www.frontiersin.org/articles/10.3389/fncom.2020.558477/full)
 
 ## Cite us
 
